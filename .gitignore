@@ -1,0 +1,6 @@
+.DS_Store
+# private reference assets (kept locally, not published)
+Shapes/*.jpeg
+StockImages/
+UIMoodBoard/
+visualExamples/
